@@ -44,7 +44,7 @@ export const HomePage = () => {
                     alignItems: 'center',
                     columnGap: 5
                 }}>
-                    <Avatar sx={{bgcolor: "#E76161"}}>DK</Avatar>
+                    <Avatar sx={{bgcolor: "#E76161"}}>KS</Avatar>
                 </div>
                 
             </div>
